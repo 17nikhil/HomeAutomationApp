@@ -11,6 +11,7 @@ These are the Wireframes
 ![Wireframe - Home](https://user-images.githubusercontent.com/25953522/83350512-2fa5ca80-a35a-11ea-9f3d-2def7429c906.png)
 ![Wireframe - Rooms](https://user-images.githubusercontent.com/25953522/83350513-303e6100-a35a-11ea-8f99-8c4d52dea0fd.png)
 ![Wireframe - Rooms1](https://user-images.githubusercontent.com/25953522/83350514-30d6f780-a35a-11ea-9de9-f6355f0babcd.png)
+![Design Style](https://user-images.githubusercontent.com/25953522/83350936-57e2f880-a35d-11ea-86fe-8315772aadec.png)
 
 And here are the Screen Mockups
 
